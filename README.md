@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 |[Django](https://github.com/jamwine/Django)                       |                        |[Apache Beam](https://github.com/jamwine/Apache-Beam)                   |[Pygal](https://github.com/jamwine/Pygal)                          |
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum%2BMyeongjo&size=30&duration=4000&color=53C8F7&vCenter=true&lines=Change+is+good.;Change+is+normal..;Do+not+deny+it...;Embrace+it....;Let+it+amplify+you.....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poiret%2BOne&size=30&duration=4000&color=53C8F7&vCenter=true&lines=Change+is+good.;Change+is+normal..;Do+not+deny+it...;Embrace+it....;Let+it+amplify+you.....)](https://git.io/typing-svg)
 
 
 <img width="100%" src="network.gif" alt="network.gif">
