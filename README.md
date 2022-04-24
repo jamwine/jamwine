@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poiret%2BOne&size=30&duration=4000&color=53C8F7&vCenter=true&lines=Change+is+good.;Change+is+normal..;Do+not+deny+it...;Embrace+it....;Let+it+amplify+you.....)](https://git.io/typing-svg)
 
 
-<img width="100%" src="network.gif" alt="network.gif">
+<img width="100%" src="financial.gif" alt="financial.gif">
