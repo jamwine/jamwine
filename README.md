@@ -1,4 +1,4 @@
-## A structured list of frequently visited Repositories
+# JAMWINE
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins%3Aital%2Cwght%401%2C100&size=15&duration=2000&color=179D6FCD&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Change+is+good.;Change+is+normal.;Do+not+deny+it.;Embrace+it.;Let+it+amplify+you.)](https://git.io/typing-svg)
 
@@ -13,3 +13,27 @@
 
 
 <img width="100%" src="financial.gif" alt="financial.gif">
+
+
+###  ヽ(•‿•)ノ      ┏(-\_-)┛┗(-\_- )┓      ＼(ﾟｰﾟ＼)
+* [JAMWINE #107 - Smash the Cosmetics](https://open.spotify.com/playlist/5vQwOyZtrxXu2Dvlh4U41q)
+* [JAMWINE #106 - Octotastic nyctophile](https://open.spotify.com/playlist/1ybdFHZ7mvzUABqwyyRaKn)
+* [JAMWINE #105 - A Premature Dent](https://open.spotify.com/playlist/4lToU0TRqeHrHmEYTFRQna)
+* [JAMWINE #104 - Colloquial beams](https://open.spotify.com/playlist/47xPFs3FZHpHQSGrttW4Oi)
+* [JAMWINE #103 - The Drill Station](https://open.spotify.com/playlist/4nrhn3ouzCRGaXE2ESZeMZ)
+* [JAMWINE #102 -  Coffee Stings](https://open.spotify.com/playlist/4aBSDRGGWkk6nxE60n6prl)
+* [JAMWINE #101 - Inspiring Cardinality](https://open.spotify.com/playlist/1qDQcXPmNWHHb7i1MMmDkv)
+* [JAMWINE #100 - Steganographic Parcels](https://open.spotify.com/playlist/2MYpanLOrzAmYbfRPjhbL9)
+* [JAMWINE #99 - Digital Avocado](https://open.spotify.com/playlist/6q4DoWk2IxUgmY34XYzsvL)
+* [JAMWINE #98 - Rectis Corde Laetitia](https://open.spotify.com/playlist/7o2SL2rmyl2oQEOjgfmHx1)
+* [JAMWINE #97 - Confident Islands](https://open.spotify.com/playlist/3xxgfXVvKjIGo974BkAklE)
+* [JAMWINE #96 - QWERTY Expansion](https://open.spotify.com/playlist/6FKNaDGRidbPx8b6hJwB8d)
+* [JAMWINE #95 - Love Tickets](https://open.spotify.com/playlist/4jSkPzJ1nWMncEsyTX74Ji)
+* [JAMWINE #94 - Overdosed Wires](https://open.spotify.com/playlist/6oLWuGLuQ7Ud73Hw44EIxg)
+* [JAMWINE #93 - Steal Steel](https://open.spotify.com/playlist/3RRa86MO1h90xgBmBirIM1)
+* [JAMWINE #92 - Dimensional Plants](https://open.spotify.com/playlist/7fyBfSGDXjUkKfUm1gebbt)
+* [JAMWINE #91 - Electrical Motion](https://open.spotify.com/playlist/2xoGVbQEjFUA9xH0PFxrc2)
+* [JAMWINE #90 - Labyrinthine Mud](https://open.spotify.com/playlist/0y3QiooQQ4BkNMtwo7SNEq)
+* [JAMWINE #89 - The Sequential Scripts](https://open.spotify.com/playlist/2ZA11Afz0e1dKAzjB0itwq)
+* [JAMWINE #88 - Diminish](https://open.spotify.com/playlist/2bU7L4iLN8xzdYD2zMVNa0)
+
