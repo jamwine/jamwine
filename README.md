@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins%3Aital%2Cwght%401%2C100&size=15&duration=2000&color=179D6FCD&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Change+is+good.;Change+is+normal.;Do+not+deny+it.;Embrace+it.;Let+it+amplify+you.)](https://git.io/typing-svg)
 
-
+Currently working on:
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
 |---|---|---|---|---|
 |[Python Beginners Guide](https://github.com/jamwine/Python-Beginners-Guide) |[Statistics](https://github.com/jamwine/Statistics) |[SQL](https://github.com/jamwine/SQL-in-Python) |[Pandas](https://github.com/jamwine/Learn-Pandas) |[System Design](https://github.com/jamwine/System-Design)
