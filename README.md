@@ -2,20 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins%3Aital%2Cwght%401%2C100&size=15&duration=2000&color=179D6FCD&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Change+is+good.;Change+is+normal.;Do+not+deny+it.;Embrace+it.;Let+it+amplify+you.)](https://git.io/typing-svg)
 
-Currently working on:
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
 |---|---|---|---|---|
 |[Python Beginners Guide](https://github.com/jamwine/Python-Beginners-Guide) |[Statistics](https://github.com/jamwine/Statistics) |[SQL](https://github.com/jamwine/SQL-in-Python) |[Pandas](https://github.com/jamwine/Learn-Pandas) |[System Design](https://github.com/jamwine/System-Design)
 |[Data Structures & Algorithms](https://github.com/jamwine/Data-Structures-and-Algorithm) |[Machine learning](https://github.com/jamwine/Machine-Learning) |[Docker](https://github.com/jamwine/Docker) |[Numpy](https://github.com/jamwine/Learn-NumPy) |[Javascript-Beginner-Guide](https://github.com/jamwine/Javascript-Beginner-Guide)
 |[Django](https://github.com/jamwine/Django) |[TensorFlow](https://github.com/jamwine/Tensorflow) |[GCP Qwiklabs](https://github.com/jamwine/GCP-Qwiklabs) |[Matplotlib](https://github.com/jamwine/Data-Visualization) |[React-Projects](https://github.com/jamwine/React-Projects)
 |[Genetic Algorithms](https://github.com/jamwine/Genetic-Algorithms) | |[Apache Beam](https://github.com/jamwine/Apache-Beam) |[Pygal](https://github.com/jamwine/Pygal) |[Data](https://github.com/jamwine/Data)
-| | |[Apache Airflow](https://github.com/jamwine/Apache-Airflow) | |
+| | |[Apache Airflow](https://github.com/jamwine/Apache-Airflow) | |[Markdown](https://github.com/jamwine/Markdown)
 
 
 <img width="100%" src="financial.gif" alt="financial.gif">
 
 
-###  ヽ(•‿•)ノ      ┏(-\_-)┛┗(-\_- )┓      ＼(ﾟｰﾟ＼)
+###  Spotify Playlists ヽ(•‿•)ノ      ┏(-\_-)┛┗(-\_- )┓      ＼(ﾟｰﾟ＼)
 * [JAMWINE #107 - Smash the Cosmetics](https://open.spotify.com/playlist/5vQwOyZtrxXu2Dvlh4U41q)
 * [JAMWINE #106 - Octotastic nyctophile](https://open.spotify.com/playlist/1ybdFHZ7mvzUABqwyyRaKn)
 * [JAMWINE #105 - A Premature Dent](https://open.spotify.com/playlist/4lToU0TRqeHrHmEYTFRQna)
