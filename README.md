@@ -36,3 +36,4 @@
 * [JAMWINE #89 - The Sequential Scripts](https://open.spotify.com/playlist/2ZA11Afz0e1dKAzjB0itwq)
 * [JAMWINE #88 - Diminish](https://open.spotify.com/playlist/2bU7L4iLN8xzdYD2zMVNa0)
 
+<img width="100%" src="Signature.gif" alt="Signature.gif">
