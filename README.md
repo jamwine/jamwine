@@ -1,6 +1,6 @@
-# JAMWINE
+<img width="100%" src="Signature.gif" alt="Signature.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins%3Aital%2Cwght%401%2C100&size=20&duration=2000&color=179D6FCD&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Change+is+good.;Change+is+normal.;Do+not+deny+it.;Embrace+it.;Let+it+amplify+you.)](https://git.io/typing-svg)
+### Learn about:
 
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
 |---|---|---|---|---|
@@ -11,7 +11,7 @@
 |[Images Using Python](https://github.com/jamwine/Images-using-Python) | |[Apache Airflow](https://github.com/jamwine/Apache-Airflow) | |[Markdown](https://github.com/jamwine/Markdown)
 | | |[Unix](https://github.com/jamwine/Unix) | |
 
-
+### Focusing on Stock Markets
 <img width="100%" src="financial.gif" alt="financial.gif">
 
 
@@ -37,4 +37,4 @@
 * [JAMWINE #89 - The Sequential Scripts](https://open.spotify.com/playlist/2ZA11Afz0e1dKAzjB0itwq)
 * [JAMWINE #88 - Diminish](https://open.spotify.com/playlist/2bU7L4iLN8xzdYD2zMVNa0)
 
-<img width="100%" src="Signature.gif" alt="Signature.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins%3Aital%2Cwght%401%2C100&size=20&duration=2000&color=179D6FCD&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Change+is+good.;Change+is+normal.;Do+not+deny+it.;Embrace+it.;Let+it+amplify+you.)](https://git.io/typing-svg)
