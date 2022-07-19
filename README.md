@@ -1,6 +1,6 @@
 <img width="100%" src="Signature.gif" alt="Signature.gif">
 
-### Learn about:
+### Bookkeeping
 
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
 |---|---|---|---|---|
