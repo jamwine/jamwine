@@ -5,8 +5,8 @@
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
 |---|---|---|---|---|
 |[Python Beginners Guide](https://github.com/jamwine/Python-Beginners-Guide) |[Statistics](https://github.com/jamwine/Statistics) |[SQL](https://github.com/jamwine/SQL-in-Python) |[Pandas](https://github.com/jamwine/Learn-Pandas) |[System Design](https://github.com/jamwine/System-Design)
-|[Data Structures & Algorithms](https://github.com/jamwine/Data-Structures-and-Algorithm) |[Machine learning](https://github.com/jamwine/Machine-Learning) |[Docker](https://github.com/jamwine/Docker) |[Numpy](https://github.com/jamwine/Learn-NumPy) |[Javascript-Beginner-Guide](https://github.com/jamwine/Javascript-Beginner-Guide)
-|[Django](https://github.com/jamwine/Django) |[TensorFlow](https://github.com/jamwine/Tensorflow) |[GCP Qwiklabs](https://github.com/jamwine/GCP-Qwiklabs) |[Matplotlib](https://github.com/jamwine/Data-Visualization) |[React-Projects](https://github.com/jamwine/React-Projects)
+|[Data Structures & Algorithms](https://github.com/jamwine/Data-Structures-and-Algorithm) |[Machine learning](https://github.com/jamwine/Machine-Learning) |[Docker](https://github.com/jamwine/Docker) |[Numpy](https://github.com/jamwine/Learn-NumPy) |[Javascript Beginners Guide](https://github.com/jamwine/Javascript-Beginner-Guide)
+|[Django](https://github.com/jamwine/Django) |[TensorFlow](https://github.com/jamwine/Tensorflow) |[GCP Qwiklabs](https://github.com/jamwine/GCP-Qwiklabs) |[Matplotlib](https://github.com/jamwine/Data-Visualization) |[React Projects](https://github.com/jamwine/React-Projects)
 |[Genetic Algorithms](https://github.com/jamwine/Genetic-Algorithms) | |[Apache Beam](https://github.com/jamwine/Apache-Beam) |[Pygal](https://github.com/jamwine/Pygal) |[Data](https://github.com/jamwine/Data)
 |[Images Using Python](https://github.com/jamwine/Images-using-Python) | |[Apache Airflow](https://github.com/jamwine/Apache-Airflow) | |[Markdown](https://github.com/jamwine/Markdown)
 | | |[Unix](https://github.com/jamwine/Unix) | |
