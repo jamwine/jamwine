@@ -15,7 +15,7 @@
 <img width="100%" src="financial.gif" alt="financial.gif">
 
 
-###  Spotify Playlists ヽ(•‿•)ノ      ┏(-\_-)┛┗(-\_- )┓      ＼(ﾟｰﾟ＼)
+###  ヽ(•‿•)ノ  ┏(-\_-)┛ SPOTIFY PLAYLISTS ┗(-\_- )┓  ＼(ﾟｰﾟ＼)
 * [JAMWINE #109 - Phantom's Invitation](https://open.spotify.com/playlist/2iKGcAFb0vVn64gaB1QTW5)
 * [JAMWINE #108 - Albeit Insipidly](https://open.spotify.com/playlist/6vlAJoxX5qui68OPPLdFjI)
 * [JAMWINE #107 - Smash the Cosmetics](https://open.spotify.com/playlist/5vQwOyZtrxXu2Dvlh4U41q)
@@ -39,4 +39,4 @@
 * [JAMWINE #89 - The Sequential Scripts](https://open.spotify.com/playlist/2ZA11Afz0e1dKAzjB0itwq)
 * [JAMWINE #88 - Diminish](https://open.spotify.com/playlist/2bU7L4iLN8xzdYD2zMVNa0)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins%3Aital%2Cwght%401%2C100&size=20&duration=1200&color=179D6FCD&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Change+is+good.;Change+is+normal.;Do+not+deny+it.;Embrace+it.;Let+it+amplify+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins%3Aital%2Cwght%401%2C100&size=22&duration=1200&color=179D6FCD&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Change+is+good.;Change+is+normal.;Do+not+deny+it.;Embrace+it.;Let+it+amplify+you.)](https://git.io/typing-svg)
