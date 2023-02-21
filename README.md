@@ -16,6 +16,7 @@
 
 
 ###  ヽ(•‿•)ノ  ┏(-\_-)┛ SPOTIFY PLAYLISTS ┗(-\_- )┓  ＼(ﾟｰﾟ＼)
+* [JAMWINE #110 - Scrabbling Teen](https://open.spotify.com/playlist/6px5od1U8ptKPdePXXHBOm)
 * [JAMWINE #109 - Phantom's Invitation](https://open.spotify.com/playlist/2iKGcAFb0vVn64gaB1QTW5)
 * [JAMWINE #108 - Albeit Insipidly](https://open.spotify.com/playlist/6vlAJoxX5qui68OPPLdFjI)
 * [JAMWINE #107 - Smash the Cosmetics](https://open.spotify.com/playlist/5vQwOyZtrxXu2Dvlh4U41q)
