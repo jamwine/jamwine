@@ -2,6 +2,8 @@
 
 ### Bookkeeping
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=600&pause=2&color=9D3F0BCD&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=-------;++++%E3%83%BD(%E2%80%A2%E2%80%BF%E2%80%A2)%E3%83%8E++++)](https://github.com/jamwine#:~:text=README.md-,Bookkeeping,-Python)
+
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
 |---|---|---|---|---|
 |[Python Beginners Guide](https://github.com/jamwine/Python-Beginners-Guide) |[Statistics](https://github.com/jamwine/Statistics) |[SQL](https://github.com/jamwine/SQL-in-Python) |[Pandas](https://github.com/jamwine/Learn-Pandas) |[System Design](https://github.com/jamwine/System-Design)
@@ -11,11 +13,10 @@
 |[Images Using Python](https://github.com/jamwine/Images-using-Python) | |[Apache Airflow](https://github.com/jamwine/Apache-Airflow) | |[Markdown](https://github.com/jamwine/Markdown)
 | | |[Unix](https://github.com/jamwine/Unix) | |
 
-### Focusing on Stock Markets
-<img width="100%" src="financial.gif" alt="financial.gif">
+<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=10&color=179D6FCD&multiline=true&width=1000&height=60&lines=%E2%94%8F(-_-)%E2%94%9B++SPOTIFY+PLAYLISTS+++%E2%94%97(-_-)%E2%94%93;___________%EF%BC%BC(%EF%BE%9F%EF%BD%B0%EF%BE%9F%EF%BC%BC)+___________)](https://readme-typing-svg.demolab.com/demo/)
 
-###  ヽ(•‿•)ノ  ┏(-\_-)┛ SPOTIFY PLAYLISTS ┗(-\_- )┓  ＼(ﾟｰﾟ＼)
 * [JAMWINE #110 - Scrabbling Teen](https://open.spotify.com/playlist/6px5od1U8ptKPdePXXHBOm)
 * [JAMWINE #109 - Phantom's Invitation](https://open.spotify.com/playlist/2iKGcAFb0vVn64gaB1QTW5)
 * [JAMWINE #108 - Albeit Insipidly](https://open.spotify.com/playlist/6vlAJoxX5qui68OPPLdFjI)
@@ -40,4 +41,6 @@
 * [JAMWINE #89 - The Sequential Scripts](https://open.spotify.com/playlist/2ZA11Afz0e1dKAzjB0itwq)
 * [JAMWINE #88 - Diminish](https://open.spotify.com/playlist/2bU7L4iLN8xzdYD2zMVNa0)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins%3Aital%2Cwght%401%2C100&size=22&duration=1200&color=179D6FCD&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Change+is+good.;Change+is+normal.;Do+not+deny+it.;Embrace+it.;Let+it+amplify+you.)](https://git.io/typing-svg)
+
+### Focusing on Stock Markets
+<img width="100%" src="financial.gif" alt="financial.gif">
