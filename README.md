@@ -1,8 +1,5 @@
 <img width="100%" src="Signature.gif" alt="Signature.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=600&pause=2&color=9D3F0BCD&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=-------;++++%E3%83%BD(%E2%80%A2%E2%80%BF%E2%80%A2)%E3%83%8E++++)](https://github.com/jamwine#:~:text=README.md-,Bookkeeping,-Python)
-
-
 ### Bookkeeping
 
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
@@ -47,3 +44,5 @@
 
 ### Focusing on Stock Markets
 <img width="100%" src="financial.gif" alt="financial.gif">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=600&pause=2&color=9D3F0BCD&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=-------;++++%E3%83%BD(%E2%80%A2%E2%80%BF%E2%80%A2)%E3%83%8E++++)](https://github.com/jamwine#:~:text=README.md-,Bookkeeping,-Python)
