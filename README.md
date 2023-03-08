@@ -1,8 +1,9 @@
 <img width="100%" src="Signature.gif" alt="Signature.gif">
 
-### Bookkeeping
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=600&pause=2&color=9D3F0BCD&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=-------;++++%E3%83%BD(%E2%80%A2%E2%80%BF%E2%80%A2)%E3%83%8E++++)](https://github.com/jamwine#:~:text=README.md-,Bookkeeping,-Python)
+
+
+### Bookkeeping
 
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
 |---|---|---|---|---|
@@ -17,6 +18,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=10&color=179D6FCD&multiline=true&width=1000&height=60&lines=%E2%94%8F(-_-)%E2%94%9B++SPOTIFY+PLAYLISTS+++%E2%94%97(-_-)%E2%94%93;___________%EF%BC%BC(%EF%BE%9F%EF%BD%B0%EF%BE%9F%EF%BC%BC)+___________)](https://readme-typing-svg.demolab.com/demo/)
 
+* [JAMWINE #112 - Esquamulose](https://open.spotify.com/playlist/0CgdiqNRzFuzpellFKc3vw)
+* [JAMWINE #111 - Prebiotic Credits](https://open.spotify.com/playlist/37Xg9FEE7kekTX4bE8lEHF)
 * [JAMWINE #110 - Scrabbling Teen](https://open.spotify.com/playlist/6px5od1U8ptKPdePXXHBOm)
 * [JAMWINE #109 - Phantom's Invitation](https://open.spotify.com/playlist/2iKGcAFb0vVn64gaB1QTW5)
 * [JAMWINE #108 - Albeit Insipidly](https://open.spotify.com/playlist/6vlAJoxX5qui68OPPLdFjI)
