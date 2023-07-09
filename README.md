@@ -5,16 +5,18 @@
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
 |---|---|---|---|---|
 |[Python Beginners Guide](https://github.com/jamwine/Python-Beginners-Guide) |[Statistics](https://github.com/jamwine/Statistics) |[SQL](https://github.com/jamwine/SQL-in-Python) |[Pandas](https://github.com/jamwine/Learn-Pandas) |[System Design](https://github.com/jamwine/System-Design)
-|[Data Structures & Algorithms](https://github.com/jamwine/Data-Structures-and-Algorithm) |[Machine learning](https://github.com/jamwine/Machine-Learning) |[Docker](https://github.com/jamwine/Docker) |[Numpy](https://github.com/jamwine/Learn-NumPy) |[Javascript Beginners Guide](https://github.com/jamwine/Javascript-Beginner-Guide)
-|[Django](https://github.com/jamwine/Django) |[TensorFlow](https://github.com/jamwine/Tensorflow) |[GCP Qwiklabs](https://github.com/jamwine/GCP-Qwiklabs) |[Matplotlib](https://github.com/jamwine/Data-Visualization) |[React Projects](https://github.com/jamwine/React-Projects)
-|[Genetic Algorithms](https://github.com/jamwine/Genetic-Algorithms) | |[Apache Beam](https://github.com/jamwine/Apache-Beam) |[Pygal](https://github.com/jamwine/Pygal) |[Data](https://github.com/jamwine/Data)
-|[Images Using Python](https://github.com/jamwine/Images-using-Python) | |[Apache Airflow](https://github.com/jamwine/Apache-Airflow) | |[Markdown](https://github.com/jamwine/Markdown)
-| | |[Unix](https://github.com/jamwine/Unix) | |
+|[Data Structures & Algorithms](https://github.com/jamwine/Data-Structures-and-Algorithm) |[Machine learning](https://github.com/jamwine/Machine-Learning) |[Docker](https://github.com/jamwine/Docker) |[Numpy](https://github.com/jamwine/Learn-NumPy) |[Web-Dev-Fundamentals](https://github.com/jamwine/Web-Dev-Fundamentals)
+|[Django](https://github.com/jamwine/Django) |[TensorFlow](https://github.com/jamwine/Tensorflow) |[Unix](https://github.com/jamwine/Unix) |[Matplotlib](https://github.com/jamwine/Data-Visualization) |[Javascript-Beginner-Guide](https://github.com/jamwine/Javascript-Beginner-Guide)
+|[Genetic Algorithms](https://github.com/jamwine/Genetic-Algorithms) | |[Apache Airflow](https://github.com/jamwine/Apache-Airflow) |[Pygal](https://github.com/jamwine/Pygal) |[React-Projects](https://github.com/jamwine/React-Projects)
+|[Images Using Python](https://github.com/jamwine/Images-using-Python) | |[Apache Beam](https://github.com/jamwine/Apache-Beam) | |[Data](https://github.com/jamwine/Data)
+|[python-cookiecutter](https://github.com/jamwine/python-cookiecutter) | |[GCP Qwiklabs](https://github.com/jamwine/GCP-Qwiklabs) | |[Markdown Table Generator](https://github.com/jamwine/Markdown)
+|[python-utils](https://github.com/jamwine/python-utils) | | | |
 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=10&color=179D6FCD&multiline=true&width=1000&height=60&lines=%E2%94%8F(-_-)%E2%94%9B++SPOTIFY+PLAYLISTS+++%E2%94%97(-_-)%E2%94%93;___________%EF%BC%BC(%EF%BE%9F%EF%BD%B0%EF%BE%9F%EF%BC%BC)+___________)](https://readme-typing-svg.demolab.com/demo/)
 
+* [JAMWINE #113 - Fading Consequences](https://open.spotify.com/playlist/7uk6zwyLKYkXrib6CzwUCh?si=902a84758ee547ed)
 * [JAMWINE #112 - Esquamulose](https://open.spotify.com/playlist/0CgdiqNRzFuzpellFKc3vw)
 * [JAMWINE #111 - Prebiotic Credits](https://open.spotify.com/playlist/37Xg9FEE7kekTX4bE8lEHF)
 * [JAMWINE #110 - Scrabbling Teen](https://open.spotify.com/playlist/6px5od1U8ptKPdePXXHBOm)
