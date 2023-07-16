@@ -2,16 +2,14 @@
 
 ### Bookkeeping
 
-|Python|Data Science|Data Engineering|Data Analytics & Visualizations|Others|
-|---|---|---|---|---|
-|[Python Beginners Guide](https://github.com/jamwine/Python-Beginners-Guide) |[Statistics](https://github.com/jamwine/Statistics) |[SQL](https://github.com/jamwine/SQL-in-Python) |[Pandas](https://github.com/jamwine/Learn-Pandas) |[System Design](https://github.com/jamwine/System-Design)
-|[Data Structures & Algorithms](https://github.com/jamwine/Data-Structures-and-Algorithm) |[Machine learning](https://github.com/jamwine/Machine-Learning) |[Docker](https://github.com/jamwine/Docker) |[Numpy](https://github.com/jamwine/Learn-NumPy) |[Web-Dev-Fundamentals](https://github.com/jamwine/Web-Dev-Fundamentals)
-|[Django](https://github.com/jamwine/Django) |[TensorFlow](https://github.com/jamwine/Tensorflow) |[Unix](https://github.com/jamwine/Unix) |[Matplotlib](https://github.com/jamwine/Data-Visualization) |[Javascript-Beginner-Guide](https://github.com/jamwine/Javascript-Beginner-Guide)
-|[Genetic Algorithms](https://github.com/jamwine/Genetic-Algorithms) | |[Apache Airflow](https://github.com/jamwine/Apache-Airflow) |[Pygal](https://github.com/jamwine/Pygal) |[React-Projects](https://github.com/jamwine/React-Projects)
-|[Images Using Python](https://github.com/jamwine/Images-using-Python) | |[Apache Beam](https://github.com/jamwine/Apache-Beam) | |[Data](https://github.com/jamwine/Data)
-|[python-cookiecutter](https://github.com/jamwine/python-cookiecutter) | |[GCP Qwiklabs](https://github.com/jamwine/GCP-Qwiklabs) | |[Markdown Table Generator](https://github.com/jamwine/Markdown)
-|[python-utils](https://github.com/jamwine/python-utils) | | | |
-
+|Python|Data Science|Data Engineering|Data Analytics & Visualizations|Web|Others|
+|---|---|---|---|---|---|
+|[Python Beginners Guide](https://github.com/jamwine/Python-Beginners-Guide) |[Statistics](https://github.com/jamwine/Statistics) |[SQL](https://github.com/jamwine/SQL-in-Python) |[Pandas](https://github.com/jamwine/Learn-Pandas) |[Web-Fundamentals (HTML & CSS)](https://github.com/jamwine/Web-Dev-Fundamentals) |[System Design](https://github.com/jamwine/System-Design) |
+|[Data Structures & Algorithms](https://github.com/jamwine/Data-Structures-and-Algorithm) |[Machine learning](https://github.com/jamwine/Machine-Learning) |[Unix](https://github.com/jamwine/Unix) |[Numpy](https://github.com/jamwine/Learn-NumPy) |[Javascript-Beginner-Guide](https://github.com/jamwine/Javascript-Beginner-Guide) |[Data](https://github.com/jamwine/Data) |
+|[python-cookiecutter](https://github.com/jamwine/python-cookiecutter) |[TensorFlow](https://github.com/jamwine/Tensorflow) |[Docker](https://github.com/jamwine/Docker) |[Matplotlib](https://github.com/jamwine/Data-Visualization) |[Web-Scraping](https://github.com/jamwine/Web-Scraping) |[Markdown Table Generator](https://github.com/jamwine/Markdown) |
+|[python-utils](https://github.com/jamwine/python-utils) | |[Apache Airflow](https://github.com/jamwine/Apache-Airflow) |[Pygal](https://github.com/jamwine/Pygal) |[Django](https://github.com/jamwine/Django) | |
+|[Images Using Python](https://github.com/jamwine/Images-using-Python) | |[Apache Beam](https://github.com/jamwine/Apache-Beam) | |[React-Projects](https://github.com/jamwine/React-Projects) | |
+|[Genetic Algorithms](https://github.com/jamwine/Genetic-Algorithms) | |[GCP Qwiklabs](https://github.com/jamwine/GCP-Qwiklabs) | | | |
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=10&color=179D6FCD&multiline=true&width=1000&height=60&lines=%E2%94%8F(-_-)%E2%94%9B++SPOTIFY+PLAYLISTS+++%E2%94%97(-_-)%E2%94%93;___________%EF%BC%BC(%EF%BE%9F%EF%BD%B0%EF%BE%9F%EF%BC%BC)+___________)](https://readme-typing-svg.demolab.com/demo/)
