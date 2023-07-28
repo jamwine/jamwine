@@ -15,6 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=10&color=179D6FCD&multiline=true&width=1000&height=60&lines=%E2%94%8F(-_-)%E2%94%9B++SPOTIFY+PLAYLISTS+++%E2%94%97(-_-)%E2%94%93;___________%EF%BC%BC(%EF%BE%9F%EF%BD%B0%EF%BE%9F%EF%BC%BC)+___________)](https://readme-typing-svg.demolab.com/demo/)
 
+* [JAMWINE #114 - Peaceful Beast](https://open.spotify.com/playlist/4m1qtGIwUZbPjE5WocEQbc?si=36a36fab559d490b)
 * [JAMWINE #113 - Fading Consequences](https://open.spotify.com/playlist/7uk6zwyLKYkXrib6CzwUCh?si=902a84758ee547ed)
 * [JAMWINE #112 - Esquamulose](https://open.spotify.com/playlist/0CgdiqNRzFuzpellFKc3vw)
 * [JAMWINE #111 - Prebiotic Credits](https://open.spotify.com/playlist/37Xg9FEE7kekTX4bE8lEHF)
