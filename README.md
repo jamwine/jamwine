@@ -1,6 +1,6 @@
 <img width="100%" src="Signature.gif" alt="Signature.gif">
 
-### Bookkeeping
+# Bookkeeping
 
 |Python|Data Science|Data Engineering|Data Analytics & Visualizations|Web|Others|
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 
 <br>
 
-### Spotify Playlists
+# Spotify Playlists
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%94%8F(-_-)%E2%94%9B+-+-+-+%E2%94%97(-_-)%E2%94%93+-+-+-+%EF%BC%BC(%EF%BE%9F%EF%BD%B0%EF%BE%9F%EF%BC%BC))](https://git.io/typing-svg)
 
@@ -31,7 +31,8 @@
 |[JAMWINE #111 - Prebiotic Credits](https://open.spotify.com/playlist/37Xg9FEE7kekTX4bE8lEHF)|[JAMWINE #101 - Inspiring Cardinality](https://open.spotify.com/playlist/1qDQcXPmNWHHb7i1MMmDkv)|[JAMWINE #91 - Electrical Motion](https://open.spotify.com/playlist/2xoGVbQEjFUA9xH0PFxrc2)||
 
 
-### Focusing on Stock Markets
+# Focusing on Financial Stock Markets
+
 <img width="100%" src="financial.gif" alt="financial.gif">
 
 
