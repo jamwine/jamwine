@@ -19,7 +19,7 @@
 
 |  |  |  |
 |----------|----------|----------|
-|  |  | [JAMWINE #121 - Legion Lines](https://open.spotify.com/playlist/3AtA8G4kFeNi5yvLZUiFnt?si=8120fafba54646ab) |
+|  | [JAMWINE #122 - Elementary Riddles](https://open.spotify.com/playlist/3T2JfvHQG7I7IrFmwIKaaD?si=0e1cd5db5665486a) | [JAMWINE #121 - Legion Lines](https://open.spotify.com/playlist/3AtA8G4kFeNi5yvLZUiFnt?si=8120fafba54646ab) |
 | [JAMWINE #120 - Pulchritude](https://open.spotify.com/playlist/5cfkP91JyMMepwel1R72Wg?si=446eb9d7bb22425b) | [JAMWINE #119 - Disease Mythology](https://open.spotify.com/playlist/1qwuAfpNysWePGfrJcbySE?si=97575ad013a046cb) | [JAMWINE #118 - Spiritual Opium](https://open.spotify.com/playlist/0FevYnlCsER5ZHncTV5Z1Y?si=5fc9ecc62cc34ab2) |
 | [JAMWINE #117 - Diabolical Antibiotics](https://open.spotify.com/playlist/1hIoHAAuU3yX5FruEyMCQD?si=ea838258c6594156) | [JAMWINE #116 - Eburnean](https://open.spotify.com/playlist/3gnw8NRFkL7WkAORRZdrE9?si=1d1d1d55e9e34663) | [JAMWINE #115 - Smaragdine](https://open.spotify.com/playlist/3sb1QnmRvlf9tT8iRcGXAa?si=7aa002d8ef2449e6) |
 | [JAMWINE #114 - Peaceful Beast](https://open.spotify.com/playlist/4m1qtGIwUZbPjE5WocEQbc?si=36a36fab559d490b) | [JAMWINE #113 - Fading Consequences](https://open.spotify.com/playlist/7uk6zwyLKYkXrib6CzwUCh?si=902a84758ee547ed) | [JAMWINE #112 - Esquamulose](https://open.spotify.com/playlist/0CgdiqNRzFuzpellFKc3vw) |
